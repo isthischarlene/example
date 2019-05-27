@@ -1,0 +1,12 @@
+/*This is the base styles for the page*/
+
+body {
+    background-color: pink;
+}
+
+h1 {
+    color: cadetblue;
+    font-weight: 300;
+    font-size: 2em;
+    margin-left: 1.4em;
+}
